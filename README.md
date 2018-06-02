@@ -1,2 +1,2 @@
 # JAMPS
-Software for determioning the Jiles-Atherton parameters based on measured H-B loops.
+Software for determining the Jiles-Atherton parameters based on measured H-B loops.
